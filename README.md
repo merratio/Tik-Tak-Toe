@@ -1,6 +1,8 @@
 # Tik-Tak-Toe
 JAVA swing implementation of the board game called tik tak toe
 
+## ttt is short for tik tac toe
+
 ## Classes
 The Driver class runs the tik tac toe game
 The FinalFrame class runs a JFrame that prompts the user on playing again or exiting 
