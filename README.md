@@ -21,7 +21,7 @@ The Grid class formats the grid adding buttons to a JFrame and it also has a met
 ## End of match
 ![alt text](image-3.png)
 
-## in case of draw
+## In case of draw
 ![alt text](image-4.png)
 
 
