@@ -15,7 +15,7 @@ The Grid class formats the grid adding buttons to a JFrame and it also has a met
 ## player 1 (X)
 ![alt text](image-1.png)
 
-## play 2 (O)
+## player 2 (O)
 ![alt text](image-2.png)
 
 ## End of match
